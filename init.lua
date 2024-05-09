@@ -1,3 +1,4 @@
+# vim:foldmethod=marker
 --: Options {{{
 vim.opt.foldmethod = 'marker'
 --: }}}
